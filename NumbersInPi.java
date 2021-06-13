@@ -24,9 +24,9 @@ class Program {
 				}
 			}
 		}
+		memoise.put(num, min);
 		return min;
 	}
 }
-
 
 
