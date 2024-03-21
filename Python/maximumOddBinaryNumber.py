@@ -25,4 +25,4 @@ class Solution:
         # add the trailing 1 to make the number odd
         result += '1'
 
-        return result
+        return result 
